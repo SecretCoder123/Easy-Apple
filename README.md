@@ -1,0 +1,3 @@
+                    Welcome to easy apple!
+this is an app for children struggling to read, write, or speak.
+type a simple word into the box. then press GO...
